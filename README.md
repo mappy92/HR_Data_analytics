@@ -12,3 +12,6 @@ The objective of this analysis is to identify patterns in work-from-home prefere
 
 <li><b>Insights and Recommendations: </b>Providing actionable insights based on the analysis to assist in strategic decision-making related to remote work policies and resource </li>management.
 </ol>
+
+<b>Dashboard</b> <br/>
+<img width="647" alt="Page_1" src="https://github.com/user-attachments/assets/dcdc8609-d2a7-481d-ae0f-67d92eb698ef"><br />
