@@ -14,4 +14,4 @@ The objective of this analysis is to identify patterns in work-from-home prefere
 </ol>
 
 <b>Dashboard</b> <br/>
-<img width="647" alt="Page_1" src="https://github.com/user-attachments/assets/dcdc8609-d2a7-481d-ae0f-67d92eb698ef"><br />
+<img width="647" alt="Page_1" src="https://github.com/mappy92/HR_Data_analytics/blob/main/Page_1.png"><br />
